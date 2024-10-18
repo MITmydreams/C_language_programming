@@ -1,0 +1,4 @@
+site_name: My Docs
+site_url: https://github.com/MITmydreams/C_language_programming
+theme: 
+  name: material
