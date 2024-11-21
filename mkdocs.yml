@@ -2,3 +2,11 @@ site_name: My Docs
 site_url: https://github.com/MITmydreams/C_language_programming
 theme: 
   name: material
+
+nav:
+  - Home:
+      - index.md
+      - 课程简介: about.md
+      - 课程内容:
+          - 课程资源: course/resources.md
+      - 问题专区: faq.md
